@@ -1,0 +1,13 @@
+Seguem as dicas para os assets de carregamento:
+
+favicon, icon, adaptive-icon normalmente são os mesmos desenhos com escalas diferentes
+
+splash é a imagem que se apresenta durante o loading, precisa de uma transparencia, vamos tentar utilizar alguma fotografia da fachada da fatec com um carro na frente e o titulo/icone do app
+
+
+Dimensões (px):
+Splash: 1284 x 2778
+Favicon: 48 x 46
+Icon: 1024 x 1024
+Adaptive-Icon: 1024 x 1024
+

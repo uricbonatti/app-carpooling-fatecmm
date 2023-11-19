@@ -1,0 +1,6 @@
+Seguem as dicas para os assets de internos da aplicação.
+
+Todas as imagens devem ser preferencialmentes PNG ou SVG.
+
+
+a background.png devera ser trocada assim que tivermos uma splash art nova
